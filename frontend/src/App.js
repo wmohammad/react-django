@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -8,9 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Hello World</h2>
-        <p>
-          Welcome All Friends to Buddy Webinar!!!
-        </p>
+        <p>Welcome All Hero's to Buddy Webinar!!!</p>
       </header>
     </div>
   );
