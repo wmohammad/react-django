@@ -54,6 +54,3 @@ jobs:
         cd /home
         pwd
         ls
-        cd /var/www/NGINX
-        pwd
-        ls
